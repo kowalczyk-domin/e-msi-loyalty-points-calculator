@@ -61,11 +61,11 @@ Wprowadzone zostało rozróżnienie:
    ```bash
    php -v
    ```
-2. **Przejdź do katalogu projektu:**
+2. **Przejdź do katalogu projektu (przykładowo):**
    ```bash
    cd "C:\Users\sargo\OneDrive\Documents\e-MSI - Zadania rekrutaycjne\Zadanie 5 - Kalkulator"
    ```
-3. **Uruchom kalkulator:**
+3. **Uruchom kalkulator z wiersza poleceń:**
    ```bash
    php kalkulator.php
    ```

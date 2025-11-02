@@ -124,9 +124,3 @@ return [
 - Kod jest modularny, łatwy w utrzymaniu i gotowy do integracji z systemem e-commerce.
 
 ---
-
-## 9️⃣ Autor
-
-**Dominik Kowalczyk**  
-e-MSI — Zadania rekrutacyjne 2025  
-📧 dominik.kowalczyk@example.com
